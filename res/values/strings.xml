@@ -1,0 +1,65 @@
+<resources>
+    <!-- Title of App -->
+    <string name="app_name">Portland Tour</string>
+
+    <string name="title_activity_carts">CartsActivity</string>
+    <string name="title_activity_flicks">FlicksActivity</string>
+    <string name="title_activity_parks">ColorsActivity</string>
+    <string name="title_activity_bridges">BridgesActivity</string>
+
+
+    <!-- Category name for Carts-->
+    <string name="category_carts">Carts</string>
+
+    <string name="tt_tagline">California tacos next to a beer-mart</string>
+    <string name="bch_tagline">All vegetarian; made with love</string>
+    <string name="kjg_tagline">Great Korean food, even better cart purveyors</string>
+    <string name="alegria_tagline">Eat a Tucson, a burrito with cactus</string>
+    <string name="poch_tagline">The place to eat poutine until you cry </string>
+    <string name="zenbu_tagline">Amazing sushi from a cart with fair prices</string>
+    <string name="ssh_tagline">Hot soup on a cold and gray Portland day</string>
+
+
+    <!-- Category name for Flicks-->
+    <string name="category_flicks">Flicks</string>
+
+    <string name="hollywood_tagline">Finely selected films in a beautiful building</string>
+    <string name="laurelhurst_tagline">Second-run movies and beer</string>
+    <string name="clinton_tagline">Oldest concurrent Rocky Horror midnight show</string>
+    <string name="livingroom_tagline">Watch a movie with your beer</string>
+    <string name="bagdad_tagline">Operated by the McMenamins chain </string>
+    <string name="cinemagic_tagline">The cheapest of seats in town</string>
+    <string name="mission_tagline">Located within an old high school</string>
+
+
+    <!-- Category name for Parks -->
+    <string name="category_parks">Parks</string>
+
+    <string name="tabor_tagline">A park on top of a dormant volcano</string>
+    <string name="kenil_tagline">A great neighborhood park with lots of space</string>
+    <string name="forrest_tagline">Largest park within the city boundaries</string>
+    <string name="millends_tagline">Smallest park in the world!</string>
+    <string name="laurel_tagline">A goregous park with several lakes</string>
+    <string name="rosegarden_tagline">Popular attraction for testing rose varieties</string>
+    <string name="skid_tagline">Fantastic place to watch hipsters watch the sunset</string>
+
+
+    <!-- Category name for Bridges-->
+    <string name="category_bridges">Bridges</string>
+
+    <string name="stjohns_tagline">Looks like the Golden Gate</string>
+    <string name="fremont_tagline">Dat arch, tho</string>
+    <string name="broadway_tagline">Stunningly red bridge</string>
+    <string name="steel_tagline">Carries Union Pacific Rail</string>
+    <string name="burnside_tagline">Cardinal center of the city</string>
+    <string name="morrison_tagline">Illuminated at night</string>
+    <string name="hawthorne_tagline">Counts the bicycle commuters</string>
+    <string name="marquam_tagline">Traffic, such traffic</string>
+    <string name="tilikum_tagline">No traffic, never traffic </string>
+    <string name="rossisland_tagline">Not bike friendly</string>
+    <string name="sellwood_tagline">Southern edge of Portland</string>
+
+
+
+
+</resources>
